@@ -3,11 +3,11 @@ patch_id
 Autor: Cristhiam Quiñónez
 Colaborador: Thrumanshow (GitHub) 
 
---- 
+---
 
-## Attach binaries by dropping them here or selecting them 
+## Attach binaries by dropping them here or selecting them
 
-https://private-user-images.githubusercontent.com/179357123/482027182-c10aaaff-9062-4a73-a2f8-f241c8598eb9.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYyMDEyNDcsIm5iZiI6MTc1NjIwMDk0NywicGF0aCI6Ii8xNzkzNTcxMjMvNDgyMDI3MTgyLWMxMGFhYWZmLTkwNjItNGE3My1hMmY4LWYyNDFjODU5OGViOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyNlQwOTM1NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMmNhMDZjNmQ0NDJmMzU5ZWNmOTcwZjQwYmIwZDkyYjc2NWFiMDViMThkNzYzNTg3OTU0ODdiM2MyNGQ0MTAzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._0A4Q55hPuYaGaF0eic5XwaXHVNSgYhWufQF5d9hQLQ
+<img width="1024" height="1536" alt="02091401180915" src="https://github.com/user-attachments/assets/c10aaaff-9062-4a73-a2f8-f241c8598eb9" />
 
 ---
 
