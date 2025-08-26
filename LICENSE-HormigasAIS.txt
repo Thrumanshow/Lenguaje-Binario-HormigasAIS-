@@ -1,0 +1,31 @@
+LICENSE: binary-language_hormigasais
+Version 1.0 – 2025
+
+### Statement of Purpose
+This license does not govern mere code.  
+The binary-language_hormigasais is not a software product to be copied or cloned.  
+It is a **design principle system**, an intellectual framework that transcends programming syntax.  
+
+### Core Philosophy
+- The innovation is not within the written code but in the **mode of thought**.  
+- The binary efficiency principle is applied to anticipate validation and resource management.  
+- It eliminates reliance on heavy dependencies, aiming for the purest and most efficient possible execution.  
+
+### Usage Rights
+- You may **adopt the philosophy** of binary-language_hormigasais to inspire your own creations.  
+- You may **reference, discuss, and study** this license for educational and experimental purposes.  
+- You are **not allowed to claim authorship** or rebrand the concept as your own invention.  
+
+### Restrictions
+- Redistribution of this license as a traditional “software license” is prohibited.  
+- Any attempt to disguise or market it as open-source or proprietary code will be invalid.  
+- This license does not provide permission to copy code, because **the code itself is not the innovation**.  
+
+### Recognition
+If you use, adapt, or draw inspiration from the binary-language_hormigasais, you must provide clear attribution:  
+
+**“Inspired by the binary-language_hormigasais – HormigasAIS, 2025.”**
+
+### Closing Note
+This license affirms:  
+**The true system is not the code itself, but the mindset that gave birth to it.**
