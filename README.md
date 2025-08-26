@@ -1,51 +1,36 @@
-##  lenguaje binario HormigasAIS 
+patch_id 
 
-El proyecto HormigasAIS utiliza un sistema único de identificación de recursos que permite gestionar archivos, configuraciones y flujos de manera segura, ligera y anticipatoria. 
+Autor: Cristhiam Quiñónez
+Colaborador: Thrumanshow (GitHub) 
 
-Este sistema se basa en un lenguaje binario interno, llamado HormigasAIS, que da coherencia y control a cada recurso, haciendo posible una configuración que podría parecer compleja, de forma simple y confiable. 
+Attach binaries by dropping them here or selecting them 
 
---- 
+02 09 14 01 18 09 15 
 
-## Propósito del lenguaje binario 
+Descripción 
 
-• Garantizar que cada recurso (como imágenes o scripts) tenga un identificador único. 
+Este directorio contiene el parche .HORMIGASAIS y ejemplos de manejo de recursos binarios LBH: 
 
-• Permitir prevalidación de archivos antes de ser utilizados en cualquier flujo. 
+• Código binario → representación de palabras en LBH 
 
-• Evitar errores relacionados con dependencias externas, sobrecarga de código o conflictos de nombres. 
+• Ejemplo de imagen → 02091401180915.png (BINARIO) 
 
-Nota: El lenguaje binario HormigasAIS no se expone directamente en este documento. Su función es conceptual: dar control y seguridad a los flujos de configuración. 
+Compatible con Python y JavaScript/NodeJS. 
 
---- 
+Contenido del parche y ejemplos 
 
-## Cómo facilita la configuración 
+# ----------------------- # Parche YAML .HORMIGASAIS # ----------------------- properties: @owner-cristhiam-quinonez resources: - resource: GitHub.Thrumanshow directives: description: "Adjuntar recursos binarios con código LBH" type: collaborator - resource: HormigasAIS.Core directives: description: "Núcleo de parches y lógica binaria LBH" type: library settings: version: 1.0.0 compatible_with: [Python, JavaScript, NodeJS] binary_language_handling: true examples: - name: Archivo binario LBH file: 02091401180915.png description: "Imagen representando la palabra BINARIO en LBH" 
 
-• Anticipación de errores 
+----------------------- # Ejemplos ejecutables # ----------------------- 
 
-• Al asociar un identificador único a cada recurso, se puede verificar su existencia y coherencia antes de ejecutar cualquier script. 
+Python 
 
-• Esto permite prevenir fallos sin necesidad de cargar interfaces gráficas ni archivos HTML adicionales. 
+python3 ejemplo_binario_lbh.py 
 
-• Simplicidad y eficiencia 
+JavaScript/NodeJS 
 
-• Gracias al control que proporciona el lenguaje binario, las configuraciones y scripts se vuelven directos, predecibles y fáciles de mantener. 
+node ejemplo_binario_lbh.js 
 
-• Evita la sobrecarga de dependencias y mantiene los flujos ligeros y confiables. 
+Salida esperada: 
 
-• Escalabilidad y consistencia 
-
-• Este enfoque puede replicarse en otros recursos o repositorios, haciendo que la gestión sea modular y reproducible. 
-
-• Los hilos de ejecución toman significado y coherencia dentro del flujo, gracias al sistema interno de control de recursos. 
-
---- 
-
-## Conclusión 
-
-El lenguaje binario HormigasAIS hace posible una configuración segura y predecible, permitiendo: 
-
-• Integración de recursos de manera confiable. 
-
-• Validación anticipada de archivos y flujos. 
-
-Reducción de errores humanos y de dependencia del entorno
+Archivo: 02091401180915.png Código LBH: (02)(09)(14)(01)(18)(09)(15) Palabra decodificada: BINARIO 
