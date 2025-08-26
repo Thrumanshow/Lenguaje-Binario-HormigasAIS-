@@ -1,0 +1,13 @@
+flowchart TD
+    A[Imagen PNG en Release] --> B[Script de Validación]
+    B -->|Nombre correcto y existencia verificada| C[Flujo Seguro HormigasAIS]
+    B -->|Error de nombre o archivo faltante| D[Error anticipado]
+    C --> E[Uso de imagen en scripts y ejemplos]
+    D --> F[Notificación de fallo al usuario]
+
+    style A fill:#D4F1F4,stroke:#1E81B0,stroke-width:2px
+    style B fill:#ADEFD1,stroke:#1E81B0,stroke-width:2px
+    style C fill:#FFD6A5,stroke:#FF6B6B,stroke-width:2px
+    style D fill:#FFADAD,stroke:#FF6B6B,stroke-width:2px
+    style E fill:#B5E48C,stroke:#1E81B0,stroke-width:2px
+    style F fill:#FF6B6B,stroke:#1E81B0,stroke-width:2px
